@@ -35,7 +35,7 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" alt="laptop" /> Desenvolvimento Web & Mobile
 - Aplicações **web e mobile** com foco em performance e experiência do usuário
-- Stack principal: **React Native · Node.js · Next.js · Tailwind CSS**
+- Stack principal: **React Native · Node.js · Next.js · NestJS · TypeScript · Tailwind CSS**
 - Arquitetura de APIs REST e GraphQL com autenticação JWT e controle de acesso baseado em funções (RBAC)
 - Integração com serviços externos e gerenciamento de filas assíncronas com **BullMQ**
 
@@ -76,6 +76,8 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 **Backend & API**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
@@ -145,8 +147,8 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="stats" /> GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luanagcouto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagcouto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luanagfcouto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagfcouto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
