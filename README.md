@@ -34,7 +34,20 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 ### 💻 Desenvolvimento Web & Mobile
 - Aplicações **web e mobile** com foco em performance e experiência do usuário
 - Stack principal: **React Native · Node.js · Next.js · Tailwind CSS**
-- Arquitetura de APIs e integração com serviços externos
+- Arquitetura de APIs REST e GraphQL com autenticação JWT e controle de acesso baseado em funções (RBAC)
+- Integração com serviços externos e gerenciamento de filas assíncronas com **BullMQ**
+
+### ☁️ Cloud & Infraestrutura
+- Deploy e orquestração de containers com **Kubernetes (EKS na AWS)**
+- Infraestrutura segura com **VPC, VPN Site-to-Site e IAM** na AWS
+- Pipelines CI/CD com **GitHub Actions, Docker e ArgoCD**
+- Alta disponibilidade com **Multi-AZ, Auto Scaling e Application Load Balancer**
+
+### 🔒 Segurança & Confiabilidade
+- Autenticação com **OAuth 2.0, SSO e JWT** com refresh tokens
+- Proteção de dados com **Row Level Security (RLS)** no banco
+- Rate limiting, **AWS WAF** e headers de segurança (Helmet.js, OWASP)
+- Observabilidade com **Sentry, CloudWatch e logs estruturados (Pino/Winston)**
 
 ### ⚙️ Processos & Melhoria Contínua
 - **Yellow Belt Six Sigma** — mapeamento, análise e otimização de processos
@@ -51,23 +64,49 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**Backend**
+**Backend & API**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF0000?style=for-the-badge&logo=redis&logoColor=white)
+
+**Auth & Segurança**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-4A154B?style=for-the-badge&logo=shield&logoColor=white)
+
+**Banco de Dados**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 **Dados & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-**Banco de Dados**
+**Cloud & Infraestrutura**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Infraestrutura**
-
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VPN](https://img.shields.io/badge/AWS_VPN-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+
+**Observabilidade & Logs**
+
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
 **Qualidade & Testes**
 
