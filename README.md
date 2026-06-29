@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="26" alt="brain" /> Sobre mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="26" alt="sobre mim" /> Sobre mim
 
 Sou formada em **Engenharia de Produção** e atualmente cursando **MBA em Inteligência Artificial no Ambiente de Negócios**. Trabalho no **Estaleiro Mauá**, onde aplico tecnologia e dados para impulsionar processos industriais e navais. Combino uma base sólida em análise de processos com desenvolvimento de software moderno, sempre com foco em entregar soluções práticas e orientadas a dados.
 
@@ -147,8 +147,8 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="stats" /> GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luanagfcouto&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanagfcouto&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=luanagfcouto&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanagfcouto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
