@@ -1,12 +1,14 @@
-<h1 align="center">Olá, eu sou a Luana Couto 👋</h1>
+<h1 align="center">Olá, eu sou a Luana Couto
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" alt="wave" />
+</h1>
 
 <p align="center">
   <em>Engenheira de Produção • MBA em IA nos Negócios • Desenvolvedora Web & Mobile • Yellow Belt Six Sigma</em><br/>
-  <em>🚢 Estaleiro Mauá</em>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="18" alt="ship" /> Estaleiro Mauá
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luanagcouto" target="_blank">
+  <a href="https://www.linkedin.com/in/luanagfcouto" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:luanagcouto@gmail.com">
@@ -16,7 +18,7 @@
 
 ---
 
-## 🧠 Sobre mim
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" width="26" alt="brain" /> Sobre mim
 
 Sou formada em **Engenharia de Produção** e atualmente cursando **MBA em Inteligência Artificial no Ambiente de Negócios**. Trabalho no **Estaleiro Mauá**, onde aplico tecnologia e dados para impulsionar processos industriais e navais. Combino uma base sólida em análise de processos com desenvolvimento de software moderno, sempre com foco em entregar soluções práticas e orientadas a dados.
 
@@ -24,39 +26,46 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 
 ---
 
-## 🚀 O que eu faço
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="rocket" /> O que eu faço
 
-### 📊 Dados & Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="22" alt="chart" /> Dados & Analytics
 - Desenvolvimento de **dashboards interativos no Power BI**
 - Tratamento, modelagem e orquestração de dados com **Microsoft Fabric**
 - Transformação de dados brutos em insights acionáveis para tomada de decisão
 
-### 💻 Desenvolvimento Web & Mobile
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="22" alt="laptop" /> Desenvolvimento Web & Mobile
 - Aplicações **web e mobile** com foco em performance e experiência do usuário
 - Stack principal: **React Native · Node.js · Next.js · Tailwind CSS**
 - Arquitetura de APIs REST e GraphQL com autenticação JWT e controle de acesso baseado em funções (RBAC)
 - Integração com serviços externos e gerenciamento de filas assíncronas com **BullMQ**
 
-### ☁️ Cloud & Infraestrutura
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" width="22" alt="cloud" /> Cloud & Infraestrutura
 - Deploy e orquestração de containers com **Kubernetes (EKS na AWS)**
 - Infraestrutura segura com **VPC, VPN Site-to-Site e IAM** na AWS
 - Pipelines CI/CD com **GitHub Actions, Docker e ArgoCD**
 - Alta disponibilidade com **Multi-AZ, Auto Scaling e Application Load Balancer**
 
-### 🔒 Segurança & Confiabilidade
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" width="22" alt="lock" /> Segurança & Confiabilidade
 - Autenticação com **OAuth 2.0, SSO e JWT** com refresh tokens
 - Proteção de dados com **Row Level Security (RLS)** no banco
 - Rate limiting, **AWS WAF** e headers de segurança (Helmet.js, OWASP)
 - Observabilidade com **Sentry, CloudWatch e logs estruturados (Pino/Winston)**
 
-### ⚙️ Processos & Melhoria Contínua
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="22" alt="gear" /> Processos & Melhoria Contínua
 - **Yellow Belt Six Sigma** — mapeamento, análise e otimização de processos
 - Visão sistêmica para identificar gargalos e oportunidades de melhoria
 - Aplicação de metodologias ágeis e lean no desenvolvimento de produtos
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" alt="robot" /> Automação & Inteligência Artificial
+- Automação de fluxos e integrações com **n8n** e **Power Automate**
+- Scripts de automação e processamento de dados com **Python**
+- Criação de sistemas **RAG (Retrieval-Augmented Generation)** para bases de conhecimento inteligentes
+- Desenvolvimento de **Skills e Agentes de IA** com orquestração de LLMs
+- **Arquitetura de dados** para pipelines de IA: ingestão, tratamento, vetorização e recuperação
+
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" width="26" alt="tools" /> Tech Stack
 
 **Frontend & Mobile**
 
@@ -120,11 +129,20 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 
 **IA & Produtividade**
 
-![ChatGPT](https://img.shields.io/badge/AI--Assisted_Dev-412991?style=for-the-badge&logo=openai&logoColor=white)
+![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted_Dev-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![AI Skills](https://img.shields.io/badge/AI_Skills_%26_Agents-7B2FBE?style=for-the-badge&logo=openai&logoColor=white)
+![Data Architecture](https://img.shields.io/badge/Arquitetura_de_Dados-0078D4?style=for-the-badge&logo=databricks&logoColor=white)
+
+**Automação**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26" alt="stats" /> GitHub Stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=luanagcouto&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -133,14 +151,17 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 
 ---
 
-## 💡 Filosofia
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="26" alt="bulb" /> Filosofia
 
-> *"Bons processos geram bons produtos. IA potencializa ambos."*
+> *"Sem dados você é apenas uma pessoa qualquer com uma opinião."*
+> — W. Edwards Deming
 
 Acredito na interseção entre **pensamento analítico, tecnologia e inteligência artificial** como o caminho para resolver problemas reais com eficiência e escala.
 
 ---
 
 <p align="center">
-  Feito com 💜 por Luana Couto
+  Feito com
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="18" alt="heart" />
+  por Luana Couto
 </p>
