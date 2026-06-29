@@ -18,7 +18,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist%20Medium-Light%20Skin%20Tone.png" width="26" alt="sobre mim" /> Sobre mim
+## 🧠 Sobre mim
 
 Sou formada em **Engenharia de Produção** e atualmente cursando **MBA em Inteligência Artificial no Ambiente de Negócios**. Trabalho no **Estaleiro Mauá**, onde aplico tecnologia e dados para impulsionar processos industriais e navais. Combino uma base sólida em análise de processos com desenvolvimento de software moderno, sempre com foco em entregar soluções práticas e orientadas a dados.
 
@@ -141,8 +141,6 @@ Meu modelo de desenvolvimento é **programação assistida por IA** — acredito
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
 
 ---
 
