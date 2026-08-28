@@ -19,6 +19,10 @@
 
 ---
 
+> 🚧 **Este GitHub está em construção** — repositórios e projetos sendo organizados e publicados aos poucos.
+
+---
+
 ## 🧠 Sobre mim
 
 Formada em **Engenharia de Produção**, cursando **MBA em Tecnologia para Negócios: IA, Data Science e Big Data**. Atuo como **Analista de BI/Dados** no **Estaleiro Mauá**, onde construo pipelines, modelos e dashboards para orientar decisões industriais e navais com dados. Combino base analítica sólida com engenharia de dados moderna, sempre buscando transformar dado bruto em decisão.
@@ -62,6 +66,7 @@ Formada em **Engenharia de Produção**, cursando **MBA em Tecnologia para Negó
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Machine Learning & IA**
 
