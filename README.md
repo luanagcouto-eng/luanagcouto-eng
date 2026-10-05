@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <em>Engenheira de Dados • Cientista de Dados • Analista de BI/Dados</em><br/>
+  <em>Engenheira de Dados </em><br/>
   <em>Engenharia de Produção • MBA em IA, Data Science e Big Data • Yellow Belt Six Sigma</em><br/>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Ship.png" width="18" alt="ship" /> Estaleiro Mauá
 </p>
