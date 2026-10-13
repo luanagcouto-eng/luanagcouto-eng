@@ -40,6 +40,13 @@ Meu diferencial é unir **contexto de negócio industrial** — cronogramas de r
 | [**sidra-socioeconomic-etl**](https://github.com/luanagcouto-eng/sidra-socioeconomic-etl) | Pipeline ETL de indicadores socioeconômicos do IBGE/SIDRA (PIB, IDH, desemprego por UF) para um DW analítico, com correlação e regressão | Python · dbt · PostgreSQL · Dagster | 🚧 Em desenvolvimento |
 | [**askmydata**](https://github.com/luanagcouto-eng/askmydata) | CLI com agente de IA (tool-use) que responde perguntas em linguagem natural sobre CSV/SQLite em sandbox read-only | Python · Claude API · DuckDB | 🚧 Em desenvolvimento |
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="22" alt="robot" /> Projetos com IA — Jev (TypeSafe AI)
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| **Avaliador de Cronogramas DCMA-14** | Avalia a qualidade de cronogramas de obras de reparo naval com base no checklist de 14 pontos da DCMA (lógica, folgas, restrições, recursos, caminho crítico etc.), gerando diagnóstico e recomendações para o planejamento | Jev (TypeSafe AI) · DCMA-14 · MS Project |
+| **Seletor de Modelo Claude** | Analisa o prompt enviado (complexidade, tipo de tarefa, volume de contexto) e recomenda o modelo Claude mais adequado, equilibrando qualidade, latência e custo de tokens | Jev (TypeSafe AI) · Claude API |
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26" alt="rocket" /> O que eu faço no dia a dia
