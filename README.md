@@ -45,7 +45,14 @@ Meu diferencial é unir **contexto de negócio industrial** — cronogramas de r
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
 | **Avaliador de Cronogramas DCMA-14** | Avalia a qualidade de cronogramas de obras de reparo naval com base no checklist de 14 pontos da DCMA (lógica, folgas, restrições, recursos, caminho crítico etc.), gerando diagnóstico e recomendações para o planejamento | Jev (TypeSafe AI) · DCMA-14 · MS Project | ✅ Finalizado |
-| **Seletor de Modelo Claude** | Analisa o prompt enviado (complexidade, tipo de tarefa, volume de contexto) e recomenda o modelo Claude mais adequado, equilibrando qualidade, latência e custo de tokens | Jev (TypeSafe AI) · Claude API | ✅ Finalizado |
+| [**Seletor de Modelo Claude**](https://github.com/luanagcouto-eng/Jev-SeletorModelosIAClaude) | Analisa o prompt enviado (complexidade, tipo de tarefa, volume de contexto) e recomenda o modelo Claude mais adequado, equilibrando qualidade, latência e custo de tokens | Jev (TypeSafe AI) · Claude API | ✅ Finalizado |
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Puzzle%20Piece.png" width="22" alt="puzzle" /> Mods para Claude
+
+| Projeto | Descrição | Stack | Status |
+|---|---|---|---|
+| [**skill-gate**](https://github.com/luanagcouto-eng/skill-gate) | Hook que intercepta as chamadas de ferramenta e garante que a Skill adequada seja carregada antes da execução, padronizando o fluxo de trabalho do agente | Claude Code · Hooks · JavaScript | ✅ Finalizado |
+| [**diario-obsidian**](https://github.com/luanagcouto-eng/diario-obsidian) | Registra automaticamente as sessões com o Claude como diário na nota diária do Obsidian, integrando o histórico de trabalho ao Segundo Cérebro | Claude Code · Hooks · Obsidian | ✅ Finalizado |
 
 ---
 
