@@ -51,8 +51,8 @@ Meu diferencial é unir **contexto de negócio industrial** — cronogramas de r
 
 | Projeto | Descrição | Stack | Status |
 |---|---|---|---|
-| [**skill-gate**](https://github.com/luanagcouto-eng/skill-gate) | Hook que intercepta as chamadas de ferramenta e garante que a Skill adequada seja carregada antes da execução, padronizando o fluxo de trabalho do agente | Claude Code · Hooks · JavaScript | ✅ Finalizado |
-| [**diario-obsidian**](https://github.com/luanagcouto-eng/diario-obsidian) | Registra automaticamente as sessões com o Claude como diário na nota diária do Obsidian, integrando o histórico de trabalho ao Segundo Cérebro | Claude Code · Hooks · Obsidian | ✅ Finalizado |
+| [**skill-gate**](https://github.com/luanagcouto-eng/skill-gate) | Hook de segurança que bloqueia `claude plugin install`, `claude plugin marketplace add`, `claude mcp add`, `npx skills add` e `git clone` para `.claude/skills` quando não há scan do SkillSpector com menos de 24 h para o mesmo alvo; só libera com score de risco 0–30 | Claude Code · Hooks · SkillSpector | ✅ Finalizado |
+| [**diario-obsidian**](https://github.com/luanagcouto-eng/diario-obsidian) | Grava cada sessão no cofre do Obsidian em `00 Inbox/AAAA-MM-DD-<tema>-<id6>.md`, com frontmatter `date`, `project` e `tags`; determinístico (sem LLM) e com mascaramento de segredos | Claude Code · Hooks · Obsidian | ✅ Finalizado |
 
 ---
 
