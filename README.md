@@ -28,8 +28,6 @@ Venho da **Engenharia de Produção** (PCP, custos industriais, melhoria contín
 
 > 💡 **Eu uso a programação como ferramenta para dados, não como fim.** SQL, Python ou PySpark só entram quando resolvem uma pergunta de negócio: o que importa é o dado confiável chegando a quem decide.
 
-- 🔭 Construindo um DW operacional de estaleiro em PostgreSQL e um pipeline com **dbt**
-- 🎯 Meta: certificação **Microsoft Fabric Analytics Engineer Associate (DP-600)** em dez/2026
 - 📚 Cursando MBA em Engenharia de Dados (Descomplica) e MBA em Tecnologia para Negócios (PUCRS)
 
 ---
