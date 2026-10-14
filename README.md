@@ -28,7 +28,7 @@ Venho da **Engenharia de Produção** (PCP, custos industriais, melhoria contín
 
 > 💡 **Eu uso a programação como ferramenta para dados, não como fim.** SQL, Python ou PySpark só entram quando resolvem uma pergunta de negócio: o que importa é o dado confiável chegando a quem decide.
 
-- 🔭 Construindo um DW operacional de estaleiro em PostgreSQL e um pipeline com **dbt** + Dagster
+- 🔭 Construindo um DW operacional de estaleiro em PostgreSQL e um pipeline com **dbt**
 - 🎯 Meta: certificação **Microsoft Fabric Analytics Engineer Associate (DP-600)** em dez/2026
 - 📚 Cursando MBA em Engenharia de Dados (Descomplica) e MBA em Tecnologia para Negócios (PUCRS)
 
@@ -108,7 +108,6 @@ Venho da **Engenharia de Produção** (PCP, custos industriais, melhoria contín
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Minitab](https://img.shields.io/badge/Minitab-6CB33F?style=for-the-badge)
 
@@ -120,7 +119,6 @@ Venho da **Engenharia de Produção** (PCP, custos industriais, melhoria contín
 
 **Orquestração & Automação**
 
-![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=for-the-badge&logo=dagster&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
