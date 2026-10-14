@@ -104,7 +104,7 @@ Venho da **Engenharia de Produção** (PCP, custos industriais, melhoria contín
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![AWS Data Engineer Associate](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate_%28em_prepara%C3%A7%C3%A3o%29-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-**Linguagem — Python aplicado em estatística**
+**Linguagem**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
